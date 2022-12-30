@@ -6,12 +6,14 @@ This is a mock up page of work ands skills.
 ## Usage
 Navigating through this page is quite easy. Below is a preview of how it looks in real-time. Simply click on the interested segment and it will direct you to the appropriate tab.
 
+'''md
 ![alt text](../Challenge-CSS/images/Screenshot.png)
+'''
 
-##License
+## License
 MIT License
 
-####Copyright (c) 2022 Bjay88
+#### Copyright (c) 2022 Bjay88
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
