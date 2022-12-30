@@ -6,9 +6,8 @@ This is a mock up page of work ands skills.
 ## Usage
 Navigating through this page is quite easy. Below is a preview of how it looks in real-time. Simply click on the interested segment and it will direct you to the appropriate tab.
 
-'''md
-![alt text](../Challenge-CSS/images/Screenshot.png)
-'''
+![Alt text](images/Screenshot.png)
+
 
 ## License
 MIT License
